@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Unitopper</string>
+
+    //LoginActivty
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="password">Enter Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="dont_have_ac">Don\'t have an account?</string>
+    <string name="signup">Sign Up</string>
+    <string name="or">or</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="i_agree">I agree with Term and Conditions</string>
+    <string name="already_have_ac">Already have an account?</string>
+    <string name="verification_tv">Verification Code</string>
+    <string name="please_type_code">Please type the verification code sent to </string>
+    <string name="continuee">Continue</string>
+    <string name="enter_otp">Enter 6 digit OTP</string>
+    <string name="didnt_get_otp">Didn\'t get the Otp? Resend OTP</string>
+</resources>
