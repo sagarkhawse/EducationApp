@@ -9,7 +9,7 @@
     <string name="dont_have_ac">Don\'t have an account?</string>
     <string name="signup">Sign Up</string>
     <string name="or">or</string>
-    <string name="name">Name</string>
+    <string name="name">Full Name</string>
     <string name="email">Email</string>
     <string name="mobile">Mobile Number</string>
     <string name="confirm_password">Confirm Password</string>
@@ -20,4 +20,138 @@
     <string name="continuee">Continue</string>
     <string name="enter_otp">Enter 6 digit OTP</string>
     <string name="didnt_get_otp">Didn\'t get the Otp? Resend OTP</string>
+    <string name="need_number">We just need your registered mobile number to reset your password</string>
+    <string name="select_university">Select University</string>
+    <string name="select_college">College of Agriculture</string>
+    //Otp Activty
+    <string name="submit">Submit</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_info_sent">Reset your password information has been sent</string>
+    <string name="send">Send</string>
+    <string name="create_your_new_password">Create your new password</string>
+    <string name="new_password">New Password</string>
+    <string name="password_hint">******</string>
+    <string name="save_new_password">Save new password</string>
+
+
+    /*University List*/
+    <string-array name="university_names">
+        <item>University</item>
+        <item>MPKV, Rahuri</item>
+        <item>PDKV, Akola</item>
+        <item>VNMKV, Parbhani</item>
+        <item>DBSKKV, Dapoli</item>
+    </string-array>
+
+    /*College Names*/
+    <string-array name="college_name_default">
+        <item>College</item>
+    </string-array>
+
+
+    <string-array name="college_name_from_rahuri">
+        <item>Shivajinagar, Pune – 411004</item>
+        <item>Kolhapur</item>
+        <item>Dhule</item>
+        <item>Akluj, Tal. Mhalshiras, Dist. Solapur – 413101</item>
+        <item>Baramati, At.Post. Shardanagar, Tal. Baramati, Dist.Pune 411015</item>
+        <item>Hingangaon  Kd. Tal, Kadegaon, Dist. Sangali - 415305</item>
+        <item>Udoji Maratha  Boarding Campus, Gangapur Road, Nashik – 422013</item>
+        <item>Rethare, Post. Shivajinagar, Tal.Karad, Dist. Satara – 415105</item>
+        <item>Sonai, Tal. Neasa, Dist. Ahmednagr – 414105</item>
+        <item>Hirabai Haridas Vidyanagari, Amrutdham, Panchwati, Nashik – 422003</item>
+        <item>Rajmachi, Tal. Karad, Dist. Satara – 415105</item>
+        <item>M. J. College Road, Jalgaon</item>
+        <item>Ambi, Tal. Maval, Dist. Pune</item>
+        <item>Shahada, Dist. Nandurbar – 425409</item>
+        <item>Wadala, Ta. Uttar Solapur, Dist. Solapur – 416222</item>
+        <item>Talsande, Tal. Hatkangale, Dist. Kolhapur</item>
+        <item> Muktainagar, Dist. Jalgaon</item>
+        <item>Phaltan, Dist. Satara</item>
+        <item>Amalner, Dist. Jalgaon</item>
+        <item>Maldad, Dist. Ahmednagar</item>
+        <item>Mirajgaon, Dist. Ahmednagar</item>
+        <item>Dondaicha, Dist. Dhule</item>
+        <item>Loni, Dist. Ahmednagar</item>
+        <item>Babhulgaon, Dist. Nashik</item>
+        <item>Ghargaon, Dist. Ahmednagar</item>
+        <item>Jainapur, Tal. Shiroli, Dist. Kolhapur – 416101</item>
+        <item>Paniv, Tal. Malshiras, Dist. Solapur – 413113</item>
+        <item>Nandurbar – 425412</item>
+        <item>Karad, Dist. Satara</item>
+        <item>Vadgaon Gupta (Vilad Ghat), Dist. Ahmednagr</item>
+        <item>Malegaon, Dist. Nashik – 423603</item>
+        <item>Nesari, Tal. Gandhinaglaj, Dist. Kolhapur</item>
+        <item>Bhanashiware, Tal. Newasa, Dist. Ahmedngar</item>
+        <item>Halgaon (Central Campus), MPKV, Rahuri</item>
+    </string-array>
+
+    <string-array name="college_names_from_akola">
+        <item>Akola</item>
+        <item>Nagpur</item>
+        <item>Morshi Road, Amravati</item>
+        <item>Warora, Dist. Chandrapur</item>
+        <item>Darwha, Dist. Yavatmal</item>
+        <item>Vivekanand Nagar, Tal. Mehkar, Dist. Buldhana</item>
+        <item>Jalgaon Jamod, Dist. Buldhana</item>
+        <item>Pipri Wardha, Dist. Wardha</item>
+        <item>Gurunanak Nagar, Yavatmal</item>
+        <item>Dr. Rajendra Gode College, Buldhana</item>
+        <item>Pimpalkhuta, Dist. Amaravati</item>
+        <item>Tiwsa, Dist. Amarawati</item>
+        <item>Deulgaon Raja, Dist. Buldhana</item>
+        <item>Sonapur, Dist. Gadchiroli</item>
+        <item>Hiratola, Dist. Gondia</item>
+        <item>Umarkhed, Dist. Yavatmal</item>
+        <item>Shirla (Andhare), Dist. Akola</item>
+        <item>Talegaon-Dashashar, Dist. Amaravati</item>
+        <item>Kesalwada, Dist. Bhandara</item>
+        <item>Risod, Dist. Washim</item>
+        <item>Konghara, Dist. Yavatmal</item>
+        <item>Chamorshi, Dist. Gadchiroli</item>
+        <item>Amkheda, Dist. Washim</item>
+        <item>Kathora Road, Amaravati</item>
+        <item>Bhaugaon, Tal.Dist. Wardha</item>
+    </string-array>
+
+    <string-array name="college_names_from_parbhani">
+        <item>Krishi Nagar, Parbhani – 431402</item>
+        <item>Nanded Road, Latur, Dist. Latur - 413512</item>
+        <item>Badnapur (Jalna – Aurangabad Road), Dist. Jalna – 431203</item>
+        <item>Ambejogai, Dist. Beed – 431517</item>
+        <item>Barshi Naka, Osmanabad, Dist. Osmanabad – 413501</item>
+        <item>Telgaon Road, Beed – 431122</item>
+        <item>Dahegaon, Dist. Aurangabad – 423703</item>
+        <item>Naigaon Bazar, Dist. Nanded – 431709</item>
+        <item>Jintur Road, Parbhani – 431401</item>
+        <item>Ashti, Dist. Beed – 414203</item>
+        <item>Kanchanwadi, Paithan Road, Dist. Aurangabad</item>
+        <item>Georai Tanda, Dist. Aurangabad – 431003</item>
+        <item>Udgir, Dist. Latur – 413517</item>
+        <item>Kharpudi, Dist. Jalna – 431203</item>
+        <item>Tondapur, Dist. Hingoli – 431701</item>
+        <item>Nagalgaon, Dist. Nanded – 431742</item>
+        <item>Markhel, Dist. Nanded – 431718</item>
+        <item>Selu, Dist. Parbhani – 431503</item>
+        <item>Pathri, Dist. Parbhani – 431151</item>
+        <item>Khandala, Dist. Aurangabad – 431116</item>
+        <item>Golegaon, Dist. Hingoli – 431705</item>
+        <item>Warpud, Dist. Parbhani – 431402</item>
+        <item>Gandheli, Dist. Aurangabad – 431007</item>
+        <item>Mhasoba Phata, Nagar Road, Beed – 431122</item>
+        <item>Alani Gadpati, Dist. Osmanabad</item>
+        <item>Pathri, Tal. Phulambri, Dist. Aurangabad</item>
+        <item>Navha, Dist. Jalna – 431213</item>
+    </string-array>
+
+    <string-array name="college_names_from_dapoli">
+        <item>Saralgaon, Dist. Thane</item>
+        <item>Kirlos, Tal. Kudal, Dist. Sindhudurg</item>
+        <item>Mandki-Palvan, Dist. Ratnagiri</item>
+        <item>Kharawate Dahiwali, Dist. Ratnagiri</item>
+        <item>Sangulwadi, Dist. Sindhudurga</item>
+        <item>Phondaghat, Dist. Sindhudurga</item>
+        <item>Achaloli, Dist. Raigad</item>
+    </string-array>
+
 </resources>
